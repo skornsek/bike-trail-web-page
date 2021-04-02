@@ -29,4 +29,4 @@ jobs:
           personal_token: ${{ secrets.GH_TOKEN }}
           external_repository: amadej10/BikeTrailDeploy
           publish_dir: ./public
-          publish_branch: gh_pages
+          publish_branch: gh-pages
