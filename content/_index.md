@@ -1,5 +1,5 @@
 ---
-header_image: "images/gozd2T.jpg"
-header_headline: "Žekovec Bike Trail"
-header_subheadline: ""
+header_image: "images/gozd3.jpg"
+header_headline: "Žekovc Bike Trail"
+header_subheadline: "Pozdravljen bike buddy"
 ---
