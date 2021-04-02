@@ -5,7 +5,7 @@ header_menu: true
 ---
 
 
-##### Plačaj nam pivo ali dva ;)
+##### Plačaj nam pivo ali dva :wink:
 
 Tuki nej mal piše neki pa pol paypal donate link 
 
