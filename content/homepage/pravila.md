@@ -1,11 +1,12 @@
 ---
-title: "Pravila"
+title: "Kultura"
 weight: 1
 header_menu: true
 ---
 
-nek tekst še tu ka bo 
-1. pravilo ena
-2. pravilo dve
-3. pravilo ena
-4. pravilo dve
+- Vožnja na lastno odgovornost :warning:
+- Nikoli ne vozi po pohodniških poteh :no_bicycles:
+- Spoštuj druge kolesarje na progi in mimoidoče pohodnike :no_pedestrians:
+- Za seboj pospravljaj smeti :put_litter_in_its_place:
+- Ne uničuj proge in ne sekaj ovinkov :do_not_litter: 
+- Vozi po pameti in po dveh kolesih :wheelchair: :wink:
