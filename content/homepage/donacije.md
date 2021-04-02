@@ -5,10 +5,13 @@ header_menu: true
 ---
 
 
-##### Plačaj nam pivo ali dva :wink:
+##### Časti nam pivo, sixpack ali plato :wink:
 
-Tuki nej mal piše neki pa pol paypal donate link 
+Upamo da ti je trail všeč. Svoje zadovoljstvo nam lahko izkažeš s podporo preko PayPala in zagotoviš, da naša usta med delom ne bodo nikoli več suha :dromedary_camel:
 
-A lot, but let us get into the details with some lorem ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent feugiat lectus et magna placerat tincidunt. Nullam sit amet lectus vitae elit mollis rhoncus non eget lorem. Ut tempor sed dui quis volutpat.
+<form action="https://www.paypal.com/donate" method="post" target="_top">
+<input type="hidden" name="hosted_button_id" value="K3EQ79K3JHSNS" />
+<input style="display: block; margin: 0 auto;" type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate  with PayPal button" />
+<img alt="" border="0" src="https://www.paypal.com/en_SI/i/scr/pixel.gif" width="1" height="1" />
+</form>
 
-In ultrices, est at lobortis pretium, magna quam mollis neque, id viverra odio est sit amet lorem. Mauris efficitur nunc vel lectus porttitor, sit amet sodales quam eleifend. Duis et felis ut mauris dignissim efficitur. Aliquam non sem eros. Integer elit ante, bibendum id hendrerit vitae, vestibulum eget risus. Nunc efficitur nisl in iaculis vestibulum.

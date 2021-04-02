@@ -8,4 +8,4 @@ header_menu: true
 
 {{<icon class="fa fa-phone">}}&nbsp;[+386 31 349 194](tel:+38631349194)
 
-Let us get in touch!
+Se vidimo na kolesu :metal:
