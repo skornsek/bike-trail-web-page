@@ -11,6 +11,9 @@ theme = "hugo-scroll"
 # The "title" of your website
 title = "Žekovec Bike Trail"
 
+enableEmoji = true
+
+
 [params]
     # A "copyright"-line to be added at the bottom of the page.
     # Hint: Markdown is supported in here as well. So you may e.g. add a link to your legal imprint-page.
@@ -42,3 +45,4 @@ title = "Žekovec Bike Trail"
 
 [markup.goldmark.renderer]
 unsafe= true
+
