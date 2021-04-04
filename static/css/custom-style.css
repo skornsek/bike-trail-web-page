@@ -1,0 +1,14 @@
+.post-holder.odd {
+    background: #6F9C98;
+    color: white;
+}
+
+a.btn {
+    font-family: "Open Sans", sans-serif;
+    font-weight: normal;
+}
+
+.contact-form button{
+    font-family: "Open Sans", sans-serif;
+    font-weight: normal;
+}
