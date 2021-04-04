@@ -3,6 +3,10 @@
     color: white;
 }
 
+#site-head {
+    background: #6F9C98 no-repeat center center;
+}
+
 a.btn {
     font-family: "Open Sans", sans-serif;
     font-weight: normal;
