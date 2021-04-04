@@ -5,6 +5,7 @@ header_menu: true
 ---
 
 - Vožnja na lastno odgovornost :warning:
+- Ne vozi brez čelade :mountain_bicyclist:
 - Nikoli ne vozi po pohodniških poteh :no_bicycles:
 - Spoštuj druge kolesarje na progi in mimoidoče pohodnike :no_pedestrians:
 - Za seboj pospravljaj smeti :put_litter_in_its_place:
