@@ -7,7 +7,9 @@ on:
 
 jobs:
   deploy:
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-20.04
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
     steps:
       - uses: actions/checkout@v2
         with:
@@ -25,8 +27,8 @@ jobs:
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
+        if: ${{ github.ref == 'refs/heads/master' }}
         with:
           personal_token: ${{ secrets.GH_TOKEN }}
-          external_repository: amadej10/BikeTrailDeploy
           publish_dir: ./public
           publish_branch: gh-pages
